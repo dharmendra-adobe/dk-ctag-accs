@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/dharmendra-adobe/dk-ctag-accs/
+    type: markup
+
+folders:
+  /products/: /products/default
